@@ -9,7 +9,8 @@ namespace LeetCode
 
             //new Q1().Test();
             //new Q2().Test();
-            new Q3().Test();
+            //new Q3().Test();
+            new Q4().Test();
 
             Console.ReadLine();
         }
